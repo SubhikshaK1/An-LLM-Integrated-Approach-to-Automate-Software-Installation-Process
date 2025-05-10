@@ -92,3 +92,20 @@ Improved user experience through AI-powered guidance
 Demonstrated viable approach for next-generation software management
 
 ![image](https://github.com/user-attachments/assets/8a0039b9-ac3e-4f23-ae41-a6076fb1863b)
+
+
+Output:
+User input:
+<img width="911" alt="User input" src="https://github.com/user-attachments/assets/e0db2b51-52b6-4706-b77b-afe8e01ad093" />
+
+Package Analysis:
+<img width="915" alt="Package Analysis" src="https://github.com/user-attachments/assets/f32653bd-e1ee-4b02-b6c3-956c01294f5d" />
+
+Package selection:
+<img width="899" alt="Package selection" src="https://github.com/user-attachments/assets/39cfd750-a329-4826-a4a5-0792ef81b923" />
+
+Verification:
+<img width="911" alt="Verification" src="https://github.com/user-attachments/assets/01af87b6-8170-42c2-a87c-5b26dfaf2d92" />
+
+Output after installation:
+<img width="960" alt="Output after installation" src="https://github.com/user-attachments/assets/86f47d17-2353-4857-9515-fbefb6cd3242" />
