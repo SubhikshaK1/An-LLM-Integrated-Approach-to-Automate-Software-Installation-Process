@@ -105,6 +105,7 @@ Package selection:
 <img width="899" alt="Package selection" src="https://github.com/user-attachments/assets/39cfd750-a329-4826-a4a5-0792ef81b923" />
 
 Verification:
+
 <img width="911" alt="Verification" src="https://github.com/user-attachments/assets/01af87b6-8170-42c2-a87c-5b26dfaf2d92" />
 
 Output after installation:
