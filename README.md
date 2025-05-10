@@ -96,7 +96,8 @@ Demonstrated viable approach for next-generation software management
 
 Output:
 User input:
-<img width="911" alt="User input" src="https://github.com/user-attachments/assets/e0db2b51-52b6-4706-b77b-afe8e01ad093" />
+<img width="911" alt="User input" src="https://github.com/user-attachments/assets/9675b0d4-60ff-409b-81cb-e261ada0742d" />
+
 
 Package Analysis:
 <img width="915" alt="Package Analysis" src="https://github.com/user-attachments/assets/f32653bd-e1ee-4b02-b6c3-956c01294f5d" />
